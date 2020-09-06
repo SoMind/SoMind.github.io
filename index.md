@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to the Society of Mind Software Project
 
-You can use the [editor on GitHub](https://github.com/SoMind/SoMind/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page documents where the various parts of the project are hosted and what access is required to be granted to use each resource.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoMind/SoMind/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [Github](https://github.com/SoMind) - all the code is Open Source
+1. [Dockerhub](https://hub.docker.com/orgs/somind)
+1. [UI](https://somind.tech) - will host a react.js UI for talking to DTs - currently only demo for Auth0 SSO
+1. [Notebooks (Jupyterhub)](https://notebook.somind.tech) - contact Navicore to get your github ID whitelisted.
+1. DtLab API [Docs](https://dtlab-api.somind.tech) - OpenAPI 3.0
+1. DtLab [API](https://somind.tech/dtlab-alligator)
+1. DtLab Ingest API [Docs](https://dtlab-ingest-api.somind.tech) - OpenAPI 3.0
+1. DtLab Ingest [API](https://somind.tech/dtlab-alligator)
+1. Security is Implemented by [Auth0](https://manage.auth0.com/dashboard/us/navicore/) - contact Navicore for access.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want more information or to get involved?  Open an issue [here](https://github.com/SoMind/SoMind.github.io/issues) and say hello or DM @navicore on Twitter.
