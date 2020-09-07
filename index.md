@@ -11,7 +11,7 @@ This page documents where the various parts of the project are hosted and what a
 1. DtLab API [Docs](https://somind.tech/dtlab-alligator/doc/dtlab/) - OpenAPI 3.0
 1. DtLab API - https://somind.tech/dtlab-alligator/(type/actor)
 1. DtLab Ingest API [Docs](https://somind.tech/dtlab-alligator/doc/dtlab-ingest/) - OpenAPI 3.0
-1. DtLab Ingest API - https://somind.tech/dtlab-alligator/ingest
+1. DtLab Ingest API - https://somind.tech/dtlab-alligator/extractor
 1. Security is Implemented by [Auth0](https://manage.auth0.com/dashboard/us/navicore/) - contact Navicore for access.
 
 ### Hosting
