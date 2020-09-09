@@ -12,9 +12,9 @@ This page documents where the various parts of the project are hosted and what a
 1. [UI](https://somind.tech) - will host a react.js UI for talking to DTs - currently only demo for Auth0 SSO
 1. [Notebooks (Jupyterhub)](https://notebook.somind.tech) - contact Navicore to get your github ID whitelisted
 1. DtLab API [Docs](https://somind.tech/dtlab-alligator/doc/dtlab/) - OpenAPI 3.0
-1. DtLab API Endpoint - https://somind.tech/dtlab-alligator/(type/actor)
+1. DtLab API endpoint - https://somind.tech/dtlab-alligator/(type/actor)
 1. DtLab Ingest API [Docs](https://somind.tech/dtlab-alligator/doc/dtlab-ingest/) - OpenAPI 3.0
-1. DtLab Ingest API Endpoint - https://somind.tech/dtlab-alligator/extractor
+1. DtLab Ingest API endpoint - https://somind.tech/dtlab-alligator/extractor
 1. Security is Implemented by [Auth0](https://manage.auth0.com/dashboard/us/navicore/) - contact Navicore for access.
 
 ### Hosting
