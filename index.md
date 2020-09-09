@@ -8,6 +8,7 @@ This page documents where the various parts of the project are hosted and what a
   * CICD is managed by Github [Actions](https://github.com/features/actions)
   * MIT Licensed
 1. Code quality is monitored by [Codacy](https://app.codacy.com/organizations/gh/SoMind/repositories)
+1. Dependencies updates are managed by the [Scala Steward](https://github.com/scala-steward-org/scala-steward) bot PRs
 1. Docker images are at [Dockerhub](https://hub.docker.com/orgs/somind/repositories) (for now)
 1. [UI](https://somind.tech) - will host a react.js UI for talking to DTs - currently only demo for Auth0 SSO
 1. [Notebooks (Jupyterhub)](https://notebook.somind.tech) - contact Navicore to get your github ID whitelisted
